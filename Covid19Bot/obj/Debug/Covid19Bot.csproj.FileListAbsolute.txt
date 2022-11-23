@@ -1,0 +1,12 @@
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\bin\Debug\Covid19Bot.exe.config
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\bin\Debug\Covid19Bot.exe
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\bin\Debug\Covid19Bot.pdb
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\bin\Debug\HtmlAgilityPack.xml
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\obj\Debug\Covid19Bot.Form1.resources
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\obj\Debug\Covid19Bot.Properties.Resources.resources
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\obj\Debug\Covid19Bot.csproj.GenerateResource.Cache
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\obj\Debug\Covid19Bot.exe
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\obj\Debug\Covid19Bot.pdb
+E:\Projects\Excel 2020 Project\Covid19Bot\Covid19Bot\obj\Debug\Covid19Bot.csprojResolveAssemblyReference.cache
